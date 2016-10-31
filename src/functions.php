@@ -1,3 +1,4 @@
+<?php
 /**
  * Useful funcitons
  */
